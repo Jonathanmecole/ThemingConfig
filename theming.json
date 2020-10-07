@@ -25,6 +25,9 @@
         "subheading": {
             "textColor": "C0C0C0",
             "fontSize": 14,
+            "borderColor": "212B36",
+            "borderWidth": 3,
+            "cornerRadius": 3,
             "font": "Poppins-SemiBold"
         }
     },
