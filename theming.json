@@ -9,11 +9,11 @@
             "textColor": "000002",
             "fontSize": 12,
             "underlineColor": "212B36",
-            "underlineWidth": 2,
+            "underlineWidth": 1,
             "font": "Poppins-SemiBold"
         },
         "subTitle": {
-            "textColor": "666666",
+            "textColor": "212B36",
             "fontSize": 13,
             "font": "Poppins-Thin"
         },
