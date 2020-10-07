@@ -7,7 +7,7 @@
     "labels": {
         "title": {
             "textColor": "#00FF00",
-            "fontSize": 12,
+            "fontSize": 20,
             "underlineColor": "#212B36",
             "underlineWidth": 1,
             "font": "Poppins-SemiBold"
@@ -29,7 +29,7 @@
             "borderWidth": 3,
             "cornerRadius": 3,
             "underlineColor": "#212B36",
-            "underlineWidth": 2,
+            "underlineWidth": 3,
             "font": "Poppins-SemiBold"
         }
     },
