@@ -6,7 +6,7 @@
     },
     "labels": {
         "title": {
-            "text": "title",
+            "text": "title from config",
             "textColor": "000002",
             "fontSize": 12,
             "underlineColor": "212B36",
@@ -14,19 +14,19 @@
             "font": "Poppins-SemiBold"
         },
         "subTitle": {
-            "text": "subTitle",
+            "text": "subTitle from config",
             "textColor": "000000",
             "fontSize": 13,
             "font": "PoppinsThin"
         },
         "heading": {
-            "text": "heading",
+            "text": "heading from config",
             "textColor": "00DCDA",
             "fontSize": 15,
             "font": "Poppins-Bold"
         },
         "subheading": {
-            "text": "subheading",
+            "text": "subheading from config",
             "textColor": "C0C0C0",
             "fontSize": 14,
             "borderColor": "212B36",
