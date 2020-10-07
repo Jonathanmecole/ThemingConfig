@@ -13,9 +13,9 @@
             "font": "Poppins-SemiBold"
         },
         "subTitle": {
-            "textColor": "444444",
+            "textColor": "666666",
             "fontSize": 13,
-            "font": "PoppinsThin"
+            "font": "Poppins-Thin"
         },
         "heading": {
             "textColor": "00DCDA",
