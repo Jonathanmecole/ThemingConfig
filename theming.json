@@ -1,0 +1,51 @@
+{
+    "global_colors": {
+        "primary_text_color": "000000",
+        "ocean_blue_light": "212B36",
+        "ocean_blue_normal": "00DCDA"
+    },
+    "labels": {
+        "title": {
+            "textColor": "000000",
+            "fontSize": 12,
+            "underlineColor": "212B36",
+            "underlineWidth": 2,
+            "font": "Poppins-SemiBold"
+        },
+        "subTitle": {
+            "textColor": "000000",
+            "fontSize": 13,
+            "font": "PoppinsThin"
+        },
+        "heading": {
+            "textColor": "000000",
+            "fontSize": 15,
+            "font": "Poppins-Bold"
+        },
+        "subheading": {
+            "textColor": "000000",
+            "fontSize": 14,
+            "font": "Poppins-SemiBold"
+        }
+    },
+    "buttons": {
+        "blueFill": {
+            "textColor": "000000",
+            "font": "Poppins-Bold",
+            "fontSize": 15,
+            "backgroundColor": "00DCDA"
+        },
+        "blueBordered": {
+            "textColor": "000000",
+            "font": "Poppins-SemiBold",
+            "fontSize": 15,
+            "borderColor": "00DCDA"
+        },
+        "blueUnderlined": {
+            "textColor": "000000",
+            "font": "Poppins-Bold",
+            "fontSize": 15,
+            "borderColor": "212B36"
+        }
+    }
+}
