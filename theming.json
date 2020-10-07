@@ -18,12 +18,12 @@
             "font": "PoppinsThin"
         },
         "heading": {
-            "textColor": "000000",
+            "textColor": "00DCDA",
             "fontSize": 15,
             "font": "Poppins-Bold"
         },
         "subheading": {
-            "textColor": "000000",
+            "textColor": "C0C0C0",
             "fontSize": 14,
             "font": "Poppins-SemiBold"
         }
